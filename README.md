@@ -1,2 +1,3 @@
-# pygames
-Proyectos realizados en pygame
+# pygame alpha build
+Proyecto en pygame
+![Screenshot](GAME.png) 
